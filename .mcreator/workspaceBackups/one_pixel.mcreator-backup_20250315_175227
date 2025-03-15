@@ -14,8 +14,8 @@
   "workspaceSettings": {
     "modid": "one_pixel",
     "modName": "ONE PIXEL",
-    "version": "0.0.9",
-    "description": "Transform every blocks and items into one single pixel! More updates will come to add more blocks and items!",
+    "version": "0.1.2",
+    "description": "This transforms the most blocks and items into one single pixel! More coming soon",
     "author": "StudiCraft",
     "websiteURL": "https://youtube.com/@StudiCraft",
     "license": "All Rights Reserved",
@@ -24,9 +24,9 @@
     "dependencies": [],
     "dependants": [],
     "mcreatorDependencies": [],
-    "currentGenerator": "resourcepack-1.21.1",
-    "credits": "Used original vanilla textures",
-    "modElementsPackage": "net.mcreator.onepixel"
+    "currentGenerator": "resourcepack-1.21.4",
+    "credits": "Made With MCreator",
+    "modElementsPackage": "net.onepixel"
   },
-  "mcreatorVersion": 202400452410
+  "mcreatorVersion": 202500110519
 }
