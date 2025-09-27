@@ -7,6 +7,11 @@
   "language_map": {
     "en_us": {}
   },
+  "metadata": {
+    "files": [
+      "src/main/pack.mcmeta"
+    ]
+  },
   "foldersRoot": {
     "name": "~",
     "children": []
@@ -14,8 +19,8 @@
   "workspaceSettings": {
     "modid": "one_pixel",
     "modName": "ONE PIXEL",
-    "version": "0.1.3",
-    "description": "This transforms the most blocks and items into one single pixel! More coming soon",
+    "version": "0.1.4",
+    "description": "Redesign your blocks into a single color!",
     "author": "StudiCraft",
     "websiteURL": "https://youtube.com/@StudiCraft",
     "license": "All Rights Reserved",
@@ -25,8 +30,8 @@
     "dependants": [],
     "mcreatorDependencies": [],
     "currentGenerator": "resourcepack-1.21.4",
-    "credits": " ",
+    "credits": "StudiCraft",
     "modElementsPackage": "net.onepixel"
   },
-  "mcreatorVersion": 202500113416
+  "mcreatorVersion": 202500228610
 }
